@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahek Solanki</h1>
-<h3 align="center">Aspiring Backend Developer | Computer Engineering Student from India.</h3><br><br>
+<h3 align="center">Aspiring Backend Developer | Computer Engineering Student from India.</h3><br>
 
 - 🔧 I’m currently Building **Full Stack applications with a strong backend emphasis using the MERN stack.**
 
